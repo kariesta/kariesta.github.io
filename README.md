@@ -10,3 +10,6 @@ En liten sjekk liste der du kan legge inn, slette og huke av gjøremål. Siden e
 
 ## oblig-kjørern [repo](https://github.com/kariesta/ugler-i-mosen)
 Få en kjapp oversikt over hvilke programmer som (ikke) kjører.
+
+## Julekalender [Nettside](https://kariesta.github.io/Julekalender2021) [repo](https://github.com/kariesta/Julekalender2021)
+Underarbeid: En liten julekalender med tilhørende utprintbar versjon.
